@@ -1,0 +1,16 @@
+{
+    "authors": [
+        {
+            "name": "Lírio Kuhnen",
+            "email": "lirio_kuhnen@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TicTacToe\\": "src/"
+        }
+    }
+}
